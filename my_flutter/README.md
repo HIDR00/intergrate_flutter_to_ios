@@ -14,3 +14,5 @@ see the [add-to-app documentation](https://flutter.dev/docs/development/add-to-a
 
 # To HotReload
 use command: >attach and choose flutter
+
+link: https://docs.flutter.dev/add-to-app/ios/project-setup
