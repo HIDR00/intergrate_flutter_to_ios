@@ -1,0 +1,6 @@
+framework module Pods_intergrate_intergrateUITests {
+  umbrella header "Pods-intergrate-intergrateUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
